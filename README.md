@@ -34,9 +34,9 @@ Some of the variables used in this project are;
 - e.t.c
 
 <strong>Methodology:</strong>
-The analysis and dashboard were completed in in Tableau.
+The analysis and dashboard were completed in Tableau.
 
-strong<>Insights:</strong>
+<strong>Insights:</strong>
 - 26% of the states in the US were responsible for 71% and 76% of departure and arrival delays in 2015, respectively. With respect to the cities, Aspen (3,369), Trenton (3,302) and McAllen (3,177) had the highest number of departure delays (minutes).
 
 - Similarly, Trenton, Aspen and McAllen also had the highest nuber of arrival delay, wiith  a total of 3151,2700 and 2593 respectively.
