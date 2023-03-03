@@ -11,8 +11,8 @@ The purpose of this project was to analyze the flight delay datasetto create a r
 - What cities had the highest flight delay and does the population of a city have enhance flight delay?
 - What day of the week and month had the most flight delays?
  
-<strong>Application Used: </strong>
-Tableau
+<strong>Application Used:</strong> Tableau
+
 <strong>About the datasets:</strong>
 The dataset used for this project consists of the  US 2015 flight delay and cancellation data. It was collected and published by the DOT's Bureau of Transportation Statistics. Kaggle (https://www.kaggle.com/datasets/usdot/flight-delays). There are a total of 3 csv files;
 - airlines.csv
